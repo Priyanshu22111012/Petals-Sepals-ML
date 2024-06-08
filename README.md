@@ -25,7 +25,7 @@ The project offers a detailed guide on training the Iris species identification 
 To embark on the Iris Species Identification project, follow the comprehensive implementation instructions provided in the documentation. Ensure that all necessary dependencies are installed and dive into the world of machine learning-based species classification for Iris flowers.
 
 ## License
-This project is licensed under the [INSERT LICENSE HERE] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 The Iris Species Identification project acknowledges the contributions of the data science community, the developers of Python libraries, and the creators of the Iris dataset for enabling the exploration and classification of Iris flower species using machine learning techniques.
